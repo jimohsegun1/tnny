@@ -1,0 +1,264 @@
+2025-06-03 16:04:00,566 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:04:08,356 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:04:08,374 - INFO - Page fully loaded
+2025-06-03 16:04:09,462 - INFO - Saved HTML page source
+2025-06-03 16:04:30,140 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:04:36,049 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:04:36,064 - INFO - Page fully loaded
+2025-06-03 16:04:36,069 - INFO - Saved HTML page source
+2025-06-03 16:04:54,424 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:05:00,495 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:05:00,514 - INFO - Page fully loaded
+2025-06-03 16:05:00,519 - INFO - Saved HTML page source
+2025-06-03 16:06:22,570 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:06:28,777 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:06:28,793 - INFO - Page fully loaded
+2025-06-03 16:07:46,378 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:07:52,551 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:07:52,563 - INFO - Page fully loaded
+2025-06-03 16:08:12,400 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:08:18,137 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:08:18,150 - INFO - Page fully loaded
+2025-06-03 16:11:46,319 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:11:52,244 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:11:52,258 - INFO - Page fully loaded
+2025-06-03 16:11:52,258 - INFO - Ready to begin scraping content...
+2025-06-03 16:21:16,339 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:21:23,409 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:21:23,423 - INFO - Page fully loaded
+2025-06-03 16:21:23,423 - INFO - Ready to begin scraping content...
+2025-06-03 16:21:32,593 - INFO - Clicked the 'Calendar' button successfully.
+2025-06-03 16:21:32,594 - INFO - Calendar panel should now be visible.
+2025-06-03 16:33:12,276 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:33:18,426 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:33:18,441 - INFO - Page fully loaded
+2025-06-03 16:33:18,442 - INFO - Ready to begin scraping content...
+2025-06-03 16:33:25,111 - ERROR - Failed to click the 'Calendar' button: Message: element click intercepted: Element <button class="btn ot_iconButton unselected ot_navbarButton icon-right text-left" role="button" aria-label="calendar button" data-test="calendar_button" style="width: 100%;">...</button> is not clickable at point (479, 32). Other element would receive the click: <div class="modalWrapper undefined">...</div>
+  (Session info: chrome=137.0.7151.41)
+Stacktrace:
+	GetHandleVerifier [0x0x10a3763+63299]
+	GetHandleVerifier [0x0x10a37a4+63364]
+	(No symbol) [0x0xed1113]
+	(No symbol) [0x0xf1fbb0]
+	(No symbol) [0x0xf1df6a]
+	(No symbol) [0x0xf1bad7]
+	(No symbol) [0x0xf1ada7]
+	(No symbol) [0x0xf0f445]
+	(No symbol) [0x0xf3e57c]
+	(No symbol) [0x0xf0eed4]
+	(No symbol) [0x0xf3e7f4]
+	(No symbol) [0x0xf5fa4a]
+	(No symbol) [0x0xf3e376]
+	(No symbol) [0x0xf0d6e0]
+	(No symbol) [0x0xf0e544]
+	GetHandleVerifier [0x0x12fe033+2531347]
+	GetHandleVerifier [0x0x12f9332+2511634]
+	GetHandleVerifier [0x0x10c9eda+220858]
+	GetHandleVerifier [0x0x10ba528+156936]
+	GetHandleVerifier [0x0x10c0c5d+183357]
+	GetHandleVerifier [0x0x10ab6c8+95912]
+	GetHandleVerifier [0x0x10ab870+96336]
+	GetHandleVerifier [0x0x109664a+9770]
+	BaseThreadInitThunk [0x0x765d7ba9+25]
+	RtlInitializeExceptionChain [0x0x77d4c36b+107]
+	RtlClearBits [0x0x77d4c2ef+191]
+
+2025-06-03 16:35:11,036 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:35:17,974 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:35:17,996 - INFO - Page fully loaded
+2025-06-03 16:35:17,996 - INFO - Ready to begin scraping content...
+2025-06-03 16:35:33,193 - ERROR - Failed to click the 'Calendar' button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa93763+63299]
+	GetHandleVerifier [0x0xa937a4+63364]
+	(No symbol) [0x0x8c1113]
+	(No symbol) [0x0x90987e]
+	(No symbol) [0x0x909c1b]
+	(No symbol) [0x0x952212]
+	(No symbol) [0x0x92e5c4]
+	(No symbol) [0x0x94fa4a]
+	(No symbol) [0x0x92e376]
+	(No symbol) [0x0x8fd6e0]
+	(No symbol) [0x0x8fe544]
+	GetHandleVerifier [0x0xcee033+2531347]
+	GetHandleVerifier [0x0xce9332+2511634]
+	GetHandleVerifier [0x0xab9eda+220858]
+	GetHandleVerifier [0x0xaaa528+156936]
+	GetHandleVerifier [0x0xab0c5d+183357]
+	GetHandleVerifier [0x0xa9b6c8+95912]
+	GetHandleVerifier [0x0xa9b870+96336]
+	GetHandleVerifier [0x0xa8664a+9770]
+	BaseThreadInitThunk [0x0x765d7ba9+25]
+	RtlInitializeExceptionChain [0x0x77d4c36b+107]
+	RtlClearBits [0x0x77d4c2ef+191]
+
+2025-06-03 16:36:25,269 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:36:31,901 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:36:31,913 - INFO - Page fully loaded
+2025-06-03 16:36:31,913 - INFO - Ready to begin scraping content...
+2025-06-03 16:36:47,147 - ERROR - Failed to click the 'Calendar' button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x8d3763+63299]
+	GetHandleVerifier [0x0x8d37a4+63364]
+	(No symbol) [0x0x701113]
+	(No symbol) [0x0x74987e]
+	(No symbol) [0x0x749c1b]
+	(No symbol) [0x0x792212]
+	(No symbol) [0x0x76e5c4]
+	(No symbol) [0x0x78fa4a]
+	(No symbol) [0x0x76e376]
+	(No symbol) [0x0x73d6e0]
+	(No symbol) [0x0x73e544]
+	GetHandleVerifier [0x0xb2e033+2531347]
+	GetHandleVerifier [0x0xb29332+2511634]
+	GetHandleVerifier [0x0x8f9eda+220858]
+	GetHandleVerifier [0x0x8ea528+156936]
+	GetHandleVerifier [0x0x8f0c5d+183357]
+	GetHandleVerifier [0x0x8db6c8+95912]
+	GetHandleVerifier [0x0x8db870+96336]
+	GetHandleVerifier [0x0x8c664a+9770]
+	BaseThreadInitThunk [0x0x765d7ba9+25]
+	RtlInitializeExceptionChain [0x0x77d4c36b+107]
+	RtlClearBits [0x0x77d4c2ef+191]
+
+2025-06-03 16:41:00,053 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:41:06,186 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:41:06,197 - INFO - Page fully loaded
+2025-06-03 16:41:06,197 - INFO - Ready to begin scraping content...
+2025-06-03 16:41:21,349 - ERROR - Failed to click the 'Calendar' button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x503763+63299]
+	GetHandleVerifier [0x0x5037a4+63364]
+	(No symbol) [0x0x331113]
+	(No symbol) [0x0x37987e]
+	(No symbol) [0x0x379c1b]
+	(No symbol) [0x0x3c2212]
+	(No symbol) [0x0x39e5c4]
+	(No symbol) [0x0x3bfa4a]
+	(No symbol) [0x0x39e376]
+	(No symbol) [0x0x36d6e0]
+	(No symbol) [0x0x36e544]
+	GetHandleVerifier [0x0x75e033+2531347]
+	GetHandleVerifier [0x0x759332+2511634]
+	GetHandleVerifier [0x0x529eda+220858]
+	GetHandleVerifier [0x0x51a528+156936]
+	GetHandleVerifier [0x0x520c5d+183357]
+	GetHandleVerifier [0x0x50b6c8+95912]
+	GetHandleVerifier [0x0x50b870+96336]
+	GetHandleVerifier [0x0x4f664a+9770]
+	BaseThreadInitThunk [0x0x765d7ba9+25]
+	RtlInitializeExceptionChain [0x0x77d4c36b+107]
+	RtlClearBits [0x0x77d4c2ef+191]
+
+2025-06-03 16:43:25,981 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:43:32,433 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:43:32,449 - INFO - Page fully loaded
+2025-06-03 16:43:32,449 - INFO - Ready to begin scraping content...
+2025-06-03 16:43:41,452 - INFO - Clicked the 'Calendar' button successfully.
+2025-06-03 16:43:41,452 - INFO - Calendar panel should now be visible.
+2025-06-03 16:49:22,870 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:49:29,736 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:49:29,750 - INFO - Page fully loaded
+2025-06-03 16:49:29,750 - INFO - Ready to begin scraping content...
+2025-06-03 16:49:45,213 - ERROR - Failed to click the 'Calendar' button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xe33763+63299]
+	GetHandleVerifier [0x0xe337a4+63364]
+	(No symbol) [0x0xc61113]
+	(No symbol) [0x0xca987e]
+	(No symbol) [0x0xca9c1b]
+	(No symbol) [0x0xcf2212]
+	(No symbol) [0x0xcce5c4]
+	(No symbol) [0x0xcefa4a]
+	(No symbol) [0x0xcce376]
+	(No symbol) [0x0xc9d6e0]
+	(No symbol) [0x0xc9e544]
+	GetHandleVerifier [0x0x108e033+2531347]
+	GetHandleVerifier [0x0x1089332+2511634]
+	GetHandleVerifier [0x0xe59eda+220858]
+	GetHandleVerifier [0x0xe4a528+156936]
+	GetHandleVerifier [0x0xe50c5d+183357]
+	GetHandleVerifier [0x0xe3b6c8+95912]
+	GetHandleVerifier [0x0xe3b870+96336]
+	GetHandleVerifier [0x0xe2664a+9770]
+	BaseThreadInitThunk [0x0x765d7ba9+25]
+	RtlInitializeExceptionChain [0x0x77d4c36b+107]
+	RtlClearBits [0x0x77d4c2ef+191]
+
+2025-06-03 16:50:25,486 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:50:31,592 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:50:31,608 - INFO - Page fully loaded
+2025-06-03 16:50:31,608 - INFO - Ready to begin scraping content...
+2025-06-03 16:50:51,709 - ERROR - Failed to click the 'Calendar' button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xad3763+63299]
+	GetHandleVerifier [0x0xad37a4+63364]
+	(No symbol) [0x0x901113]
+	(No symbol) [0x0x94987e]
+	(No symbol) [0x0x949c1b]
+	(No symbol) [0x0x992212]
+	(No symbol) [0x0x96e5c4]
+	(No symbol) [0x0x98fa4a]
+	(No symbol) [0x0x96e376]
+	(No symbol) [0x0x93d6e0]
+	(No symbol) [0x0x93e544]
+	GetHandleVerifier [0x0xd2e033+2531347]
+	GetHandleVerifier [0x0xd29332+2511634]
+	GetHandleVerifier [0x0xaf9eda+220858]
+	GetHandleVerifier [0x0xaea528+156936]
+	GetHandleVerifier [0x0xaf0c5d+183357]
+	GetHandleVerifier [0x0xadb6c8+95912]
+	GetHandleVerifier [0x0xadb870+96336]
+	GetHandleVerifier [0x0xac664a+9770]
+	BaseThreadInitThunk [0x0x765d7ba9+25]
+	RtlInitializeExceptionChain [0x0x77d4c36b+107]
+	RtlClearBits [0x0x77d4c2ef+191]
+
+2025-06-03 16:51:37,767 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:51:43,791 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:51:43,804 - INFO - Page fully loaded
+2025-06-03 16:51:43,805 - INFO - Ready to begin scraping content...
+2025-06-03 16:51:55,497 - INFO - Clicked the 'Calendar' button successfully.
+2025-06-03 16:51:55,498 - INFO - Calendar panel should now be visible.
+2025-06-03 16:59:18,114 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 16:59:25,063 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 16:59:25,077 - INFO - Page fully loaded
+2025-06-03 16:59:25,077 - INFO - Ready to begin scraping content...
+2025-06-03 16:59:32,928 - INFO - Clicked the 'Calendar' button successfully.
+2025-06-03 16:59:37,556 - INFO - Calendar content (.ot_prodListContainer) is visible.
+2025-06-03 16:59:37,556 - INFO - Calendar panel should now be visible.
+2025-06-03 17:16:28,664 - INFO - patching driver executable C:\Users\jimoh\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2025-06-03 17:16:37,110 - INFO - Navigated to https://ci.ovationtix.com/35583/production/1152995
+2025-06-03 17:16:37,125 - INFO - Page fully loaded
+2025-06-03 17:16:37,126 - INFO - Ready to begin scraping content...
+2025-06-03 17:16:45,774 - INFO - Clicked the 'Calendar' button successfully.
+2025-06-03 17:16:50,388 - INFO - Calendar content (.ot_prodListContainer) is visible.
+2025-06-03 17:16:50,389 - INFO - Calendar panel should now be visible.
+2025-06-03 17:16:50,511 - INFO - Found 13 events.
+2025-06-03 17:16:50,645 - INFO - Event #1 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 0.995305;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationti...
+2025-06-03 17:16:50,768 - INFO - Event #2 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 0.998565;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationti...
+2025-06-03 17:16:50,857 - INFO - Event #3 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationtix.com/t...
+2025-06-03 17:16:50,868 - INFO - Event #4 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer  default ot_prodImgLayout"><svg width="36px" height="36px" viewBox="0 0 13 13"><g stroke="none" stroke-widt...
+2025-06-03 17:16:50,877 - INFO - Event #5 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationtix.com/t...
+2025-06-03 17:16:50,888 - INFO - Event #6 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationtix.com/t...
+2025-06-03 17:16:50,901 - INFO - Event #7 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationtix.com/t...
+2025-06-03 17:16:50,912 - INFO - Event #8 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationtix.com/t...
+2025-06-03 17:16:51,106 - INFO - Event #9 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationtix.com/t...
+2025-06-03 17:16:51,171 - INFO - Event #10 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationtix.com/t...
+2025-06-03 17:16:51,194 - INFO - Event #11 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationtix.com/t...
+2025-06-03 17:16:51,203 - INFO - Event #12 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationtix.com/t...
+2025-06-03 17:16:51,214 - INFO - Event #13 HTML snippet:
+<li class="ot_prodListItem ot_callout" style="opacity: 1;"><div class="ot_prodImageContainer   ot_prodImgLayout"><div class="ot_prodImg" style="background-image: url(&quot;https://web.ovationtix.com/t...
+2025-06-03 17:16:51,214 - INFO - Successfully extracted events.
